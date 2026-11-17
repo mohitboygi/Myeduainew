@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://myedu.pntr.dev/sitemap.xml
