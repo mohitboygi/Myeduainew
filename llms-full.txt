@@ -7,6 +7,7 @@
 - Website: https://myedu.pntr.dev
 - Type: School and tuition management software (web app), India
 - Operator: Mohit Yadav, operating under the brand Mohit Corporation. Not a registered company, LLP or other registered entity.
+- Founder: Mohit Yadav, Founder & Lead Developer of MyEdu AI, based in Gujarat, India
 - Contact: mohityadavoffical1@gmail.com
 - Languages: English, Hindi, Gujarati
 - Pricing: 7-day free trial, then ₹50 per student per month, manual payment, no automatic deductions
