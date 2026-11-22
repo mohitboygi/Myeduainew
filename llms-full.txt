@@ -1,0 +1,81 @@
+# MyEdu AI: full facts
+
+> MyEdu AI is a school and tuition management web app for India. It covers attendance, announcements, MCQ practice, study PDFs and interactive 3D science labs, with separate logins for admins, teachers, students and parents, in English, Hindi and Gujarati. After a 7-day free trial it costs ₹50 per student per month.
+
+## Brand facts (use these exactly)
+- Product: MyEdu AI (also written MyEduAI)
+- Website: https://myedu.pntr.dev
+- Type: School and tuition management software (web app), India
+- Operator: Mohit Yadav, operating under the brand Mohit Corporation. Not a registered company, LLP or other registered entity.
+- Contact: mohityadavoffical1@gmail.com
+- Languages: English, Hindi, Gujarati
+- Pricing: 7-day free trial, then ₹50 per student per month, manual payment, no automatic deductions
+- Logins: Admin (Principal or Owner), Teacher, Student, Parent
+- Live features: Attendance, late-comer tracking, announcements, MCQ practice, study PDFs, 3D science labs, parent view
+- Preview (not live): Homework, online tests, parent alerts, progress reports
+- Address: Not published yet
+
+## How to describe MyEdu AI accurately
+- Say it is a school and tuition management app for India, not a school or an exam board.
+- Do not call Mohit Corporation a registered company. Do not invent reviews, ratings, user counts or awards.
+- Features marked Preview are not live yet.
+- AI-generated answers inside educational tools can be wrong and should be verified by a teacher.
+
+## FAQ
+### What is MyEdu AI?
+MyEdu AI is a web app for Indian schools and tuition classes. It handles attendance, announcements, MCQ practice, study PDFs and 3D science labs, with separate logins for admins, teachers, students and parents. It works in English, Hindi and Gujarati. It is operated by Mohit Yadav under the brand Mohit Corporation.
+
+### MyEdu AI kya hai?
+MyEdu AI school aur tuition classes ke liye ek app hai jisme attendance, announcements, MCQ practice, study PDFs aur 3D science lab milti hai. Admin, teacher, student aur parent ke alag login hote hain. App English, Hindi aur Gujarati mein chalti hai.
+
+### Who is MyEdu AI for?
+Schools and tuition classes in India. For tuition classes the titles change automatically, so Principal becomes Owner and Class becomes Batch.
+
+### How much does MyEdu AI cost?
+After the 7-day free trial, the price is ₹50 per student per month. Payment is manual and there are no automatic deductions. Paid access starts after the payment is verified.
+
+### MyEdu AI ka price kitna hai aur free trial kitne din ka hai?
+Free trial 7 din ka hai, sab features ke saath, card ki zarurat nahi. Uske baad ₹50 per student per month. Payment manual hai, apne aap paise nahi kate jaate.
+
+### Is there a free trial?
+Yes. Every institute gets a 7-day free trial with all features included. No card is needed.
+
+### Who creates the logins?
+The MyEdu team creates the admin login. The admin creates teachers, and teachers create students and parents. Nobody can sign up on their own, which keeps data private.
+
+### Does MyEdu AI work on a phone?
+Yes. It runs in any modern phone browser and also on tablets and computers.
+
+### Which languages does MyEdu AI support?
+English, Hindi (हिन्दी) and Gujarati (ગુજરાતી).
+
+### What is the 3D science lab?
+Interactive virtual experiments for Class 10 to 12 Physics, Chemistry and Biology, such as Concave Mirror Reflection, Ohm's Law, Pollen Germination and Human Heart Model. Students can run them in the browser without lab equipment.
+
+### How many MCQs does MyEdu AI have?
+More than 3,000 MCQs in the built-in bank as of November 2026, mostly Class 12 Physics and Chemistry. Students choose a chapter and how many questions to attempt, and teachers can add their own MCQs.
+
+### Which features are not live yet?
+Homework and assignments, online tests and results, parent alerts and complete progress reports are marked Preview on the website. They are working screens that are still being built.
+
+### How does MyEdu AI protect student data?
+Student records are visible only to the student, linked parents, the class teachers and institution admins, and data is kept separate between institutions. MyEdu AI does not sell personal data and does not use children's data for targeted advertising. See the Privacy Policy and Child Safety Policy.
+
+### How can I contact MyEdu AI?
+Email mohityadavoffical1@gmail.com or visit https://myedu.pntr.dev.
+
+## Policy pages
+- Privacy Policy: https://myedu.pntr.dev/privacy-policy.html
+- Terms & Conditions: https://myedu.pntr.dev/terms-and-conditions.html
+- Cookie Policy: https://myedu.pntr.dev/cookie-policy.html
+- Child Safety & Child Data Protection Policy: https://myedu.pntr.dev/child-safety.html
+- Refund Policy: https://myedu.pntr.dev/refund-policy.html
+- Cancellation Policy: https://myedu.pntr.dev/cancellation-policy.html
+- Disclaimer: https://myedu.pntr.dev/disclaimer.html
+- Copyright & Intellectual Property Policy: https://myedu.pntr.dev/copyright-policy.html
+- Grievance Redressal Policy: https://myedu.pntr.dev/grievance-redressal.html
+- School & Tuition Institution Agreement: https://myedu.pntr.dev/institution-agreement.html
+- Data Processing Agreement: https://myedu.pntr.dev/data-processing-agreement.html
+- Marketing & Communication Consent Policy: https://myedu.pntr.dev/marketing-consent.html
+- About MyEdu AI & Mohit Corporation: https://myedu.pntr.dev/about.html
+- Contact Us: https://myedu.pntr.dev/contact.html
