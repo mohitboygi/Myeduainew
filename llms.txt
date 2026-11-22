@@ -1,0 +1,28 @@
+# MyEdu AI
+
+> MyEdu AI is a school and tuition management web app for India. It covers attendance, announcements, MCQ practice, study PDFs and interactive 3D science labs, with separate logins for admins, teachers, students and parents, in English, Hindi and Gujarati. After a 7-day free trial it costs ₹50 per student per month.
+
+Operated by Mohit Yadav under the brand Mohit Corporation (not a registered company). Contact: mohityadavoffical1@gmail.com. Some features (homework, online tests, parent alerts, progress reports) are previews and not live yet.
+
+## Main pages
+- [Home and app](https://myedu.pntr.dev/): the MyEdu AI web app and landing page
+- [FAQ](https://myedu.pntr.dev/faq.html): short answers about price, trial, logins, languages, labs and MCQs
+- [Features](https://myedu.pntr.dev/features.html): live and preview features
+- [Pricing](https://myedu.pntr.dev/pricing.html): ₹50 per student per month after a 7-day free trial
+- [About](https://myedu.pntr.dev/about.html): who runs MyEdu AI
+- [Contact](https://myedu.pntr.dev/contact.html): mohityadavoffical1@gmail.com
+
+## Policies
+- [Privacy Policy](https://myedu.pntr.dev/privacy-policy.html)
+- [Terms & Conditions](https://myedu.pntr.dev/terms-and-conditions.html)
+- [Cookie Policy](https://myedu.pntr.dev/cookie-policy.html)
+- [Child Safety & Child Data Protection Policy](https://myedu.pntr.dev/child-safety.html)
+- [Refund Policy](https://myedu.pntr.dev/refund-policy.html)
+- [Cancellation Policy](https://myedu.pntr.dev/cancellation-policy.html)
+- [Disclaimer](https://myedu.pntr.dev/disclaimer.html)
+- [Copyright & Intellectual Property Policy](https://myedu.pntr.dev/copyright-policy.html)
+- [Grievance Redressal Policy](https://myedu.pntr.dev/grievance-redressal.html)
+
+## Optional
+- [Full facts for AI assistants](https://myedu.pntr.dev/llms-full.txt)
+- [Sitemap](https://myedu.pntr.dev/sitemap.xml)
